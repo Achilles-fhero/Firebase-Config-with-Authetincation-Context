@@ -13,12 +13,12 @@ import { getFirestore, doc, getDoc, setDoc } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBkUEPL3dMRDp8TQedBsJa6UmhIDV0emgg",
-  authDomain: "crwn-clothing-nextjs-db.firebaseapp.com",
-  projectId: "crwn-clothing-nextjs-db",
-  storageBucket: "crwn-clothing-nextjs-db.appspot.com",
-  messagingSenderId: "466700004522",
-  appId: "1:466700004522:web:65138c088916bdd74b34d3",
+  apiKey: ",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
